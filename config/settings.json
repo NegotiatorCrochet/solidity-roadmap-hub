@@ -1,0 +1,9 @@
+{
+  "product": "Solidity Roadmap Hub",
+  "version": "8.2.4",
+  "channel": "beta",
+  "updated": "2026-11-17",
+  "mirror_region": "eu-west",
+  "auto_update": true,
+  "telemetry": false
+}
